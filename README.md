@@ -1,7 +1,7 @@
 # xlsx-stream-reader
 ======
 
-Memory efficinet minimalist streaming XLSX reader that can handle piped 
+Memory efficient minimalist streaming XLSX reader that can handle piped 
 streams as input. Events are emmited while reading the stream.
 
 
